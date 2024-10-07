@@ -1,3 +1,0 @@
-This is File 1
-
-Added a line.
