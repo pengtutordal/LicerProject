@@ -1,0 +1,22 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/Licer1/v17
+/.vs/Licer1/v17/.wsuo
+/.vs/Licer1/v17/DocumentLayout.json
+/.vs/VSWorkspaceState.json
+/LicerProject
+/LicerProject/.vs/LicerProject
+/LicerProject/.vs/LicerProject/FileContentIndex
+/LicerProject/.vs/LicerProject/FileContentIndex/00c05c64-db2d-4f59-b6ba-eef1c4ede7e6.vsidx
+/LicerProject/.vs/LicerProject/v17
+/LicerProject/.vs/LicerProject/v17/Browse.VC.db
+/LicerProject/.vs/LicerProject/v17/Browse.VC.db-shm
+/LicerProject/.vs/LicerProject/v17/Browse.VC.db-wal
+/LicerProject/.vs/LicerProject/v17/Browse.VC.opendb
+/LicerProject/LicerProject.sln
+/LicerProject/LicerProject.vcxproj
+/LicerProject/LicerProject.vcxproj.filters
+/LicerProject/LicerProject.vcxproj.user
