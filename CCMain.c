@@ -12,6 +12,10 @@
 #include "Screen.h"
 #include "Robot.h"
 
+/* This is a new comment! 
+Comment #2 
+*/
+
 HANDLE scrout;	/* Output stream */
 HANDLE kbin;	/* Input stream */
 
